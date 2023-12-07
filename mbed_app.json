@@ -1,0 +1,8 @@
+{
+    "target_overrides": {
+    "*": {
+        "target.printf_lib": "std",
+        "target.clock_source": "USE_PLL_HSE_XTAL"
+    }
+}
+}
